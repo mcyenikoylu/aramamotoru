@@ -6,7 +6,7 @@
 <head runat="server">
 
     <meta charset="UTF-8">
-    <title>dotnetMCY Arama Motoru | Bing Web Search API Demo </title>
+    <title>dotnetMCY Arama Motoru | Bing Web Search API Demo</title>
     <base target="_blank">
     <style type="text/css">
         html, body, div, p, h1, h2 {
